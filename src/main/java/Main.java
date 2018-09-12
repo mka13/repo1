@@ -13,6 +13,6 @@ public class Main {
         clienat = new TaxPl();
         clienat.setCena(sc.nextDouble());
         System.out.println(clienat.wyliczPodatek());
-
+        System.out.println();
     }
 }
